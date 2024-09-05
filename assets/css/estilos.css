@@ -1,11 +1,15 @@
 body {
   font-family: "Raleway", sans-serif;
 }
-
+.logo{
+  height: 40px;
+  width: 130px;
+  object-fit: cover;
+}
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/Hari_portada.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
